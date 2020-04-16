@@ -16,9 +16,7 @@ header {
   border-bottom: 5px solid #000;
   margin-bottom: 30px;}
 
-#head{
-  color: white;
-}
+
 
 h1 {
   color: white;
@@ -179,3 +177,7 @@ input[type=submit]:hover {
 #details p {
   padding: 0;
   margin: 0.8em 0 0 0;}
+
+#head{
+  color: white;
+}
