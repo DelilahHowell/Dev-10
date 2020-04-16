@@ -16,6 +16,10 @@ header {
   border-bottom: 5px solid #000;
   margin-bottom: 30px;}
 
+#head{
+  color: white;
+}
+
 h1 {
   color: white;
   font-weight: normal;
